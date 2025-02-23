@@ -1,3 +1,3 @@
 export const Content = () => {
-  return <div className="content">Content</div>;
+  return <div className="content-box">Content</div>;
 };

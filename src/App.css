@@ -1,6 +1,6 @@
 .button {
   padding: 0.5rem;
-  background: lightgrey;
+  background: goldenrod;
   border: 1px solid grey;
   font-size: 1rem;
   display: inline-flex;
@@ -32,6 +32,7 @@
 
 .modal-dialog .content {
   padding: 2rem 1rem;
+  color:crimson;
 }
 
 .container {
@@ -43,7 +44,7 @@
   margin-block: 0.5rem;
 }
 
-.content {
+.content-box {
   padding: 2rem 0.5rem;
   border: 1px solid red;
   border-radius: 0.2rem;
